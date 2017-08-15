@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MorphImage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_draw">Draw</string>
+
+    <string name="action_clearLines">Clear Lines</string>
+    <string name="action_remove_line">Remove Line At</string>
+    <string name="action_editLines">Edit Mode</string>
+
+    <string name="menu_drawing">Drawing</string>
+</resources>
